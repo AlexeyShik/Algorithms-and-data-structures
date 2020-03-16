@@ -6,6 +6,8 @@
 #define pii pair<int, int>
 #pragma GCC optimize("O3")
 
+// old code
+
 using namespace std;
 typedef long long ll;
 typedef long double ld;
