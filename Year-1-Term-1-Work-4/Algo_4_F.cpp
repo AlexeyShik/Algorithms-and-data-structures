@@ -3,7 +3,7 @@
 using namespace std;
 
 int main() {
-	string s, t;  // я и с комментами запутался
+	string s, t;
 	cin >> t >> s;
 	int n = (int)s.size(), m = (int)t.size();
 	s = '#' + s;
@@ -15,7 +15,7 @@ int main() {
 		predp[i][0] = true;
 	int f = 1;
 	while (f < (int)t.size() && t[f] == '*') {
-		predp[0][f] = dp[0][f] = true;  // вот тут я был доблак
+		predp[0][f] = dp[0][f] = true;
 		++f;
 	}
 	for (int i = 1; i <= n; ++i) {
@@ -23,13 +23,11 @@ int main() {
 			if (t[j] == '?') {
 				dp[i][j] = dp[i - 1][j - 1];
 			} else if (t[j] == '*') {
-				dp[i][j] = predp[i][j - 1];  // или по всем k <= i dp[k][j - 1];
+				dp[i][j] = predp[i][j - 1];
 			} else {
 				dp[i][j] = dp[i - 1][j - 1] && (s[i] == t[j]);
 			}
 			predp[i][j] = predp[i - 1][j] || dp[i][j];
-			// и тут долбак, вот как можно было индексы перепутать
-			// либо раньше могли, либо с этого момента можем
 		}
 	}
 	cout << (dp[n][m] ? "YES" : "NO");
