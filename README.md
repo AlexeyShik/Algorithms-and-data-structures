@@ -8,4 +8,4 @@
 ### Second Term
  1. [Деревья поиска](https://github.com/AlexeyShik/Algorithms-and-data-structures/tree/master/Year-1-Term-2-Work-1)  
  2. [Хеш-таблицы](https://github.com/AlexeyShik/Algorithms-and-data-structures/tree/master/Year-1-Term-2-Work-2)  
- 3. [LCA, RMQ, etc.](https://github.com/AlexeyShik/Algorithms-and-data-structures/tree/master/Year-1-Term-2-Work-2)  
+ 3. [LCA, RMQ, etc.](https://github.com/AlexeyShik/Algorithms-and-data-structures/tree/master/Year-1-Term-2-Work-3)  
