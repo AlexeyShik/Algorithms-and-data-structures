@@ -9,3 +9,9 @@
  1. [Деревья поиска](https://github.com/AlexeyShik/Algorithms-and-data-structures/tree/master/Year-1-Term-2-Work-1)  
  2. [Хеш-таблицы](https://github.com/AlexeyShik/Algorithms-and-data-structures/tree/master/Year-1-Term-2-Work-2)  
  3. [LCA, RMQ, etc.](https://github.com/AlexeyShik/Algorithms-and-data-structures/tree/master/Year-1-Term-2-Work-3)  
+## Second Year  
+### Third Term
+ 1. [Обход в глубину](https://github.com/AlexeyShik/Algorithms-and-data-structures/tree/master/Year-2-Term-3-Work-1)  
+ 2. [Кратчайшие пути и минимальный остов](https://github.com/AlexeyShik/Algorithms-and-data-structures/tree/master/Year-2-Term-3-Work-2)  
+ 3. [Паросочетания](https://github.com/AlexeyShik/Algorithms-and-data-structures/tree/master/Year-2-Term-3-Work-3)  
+ 4. [Потоки](https://github.com/AlexeyShik/Algorithms-and-data-structures/tree/master/Year-2-Term-3-Work-4)  
