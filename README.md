@@ -19,4 +19,4 @@
  1. [Строковые алгоритмы](https://github.com/AlexeyShik/Algorithms-and-data-structures/tree/master/Year-2-Term-4-Work-1)
  2. [Суффиксные структуры данных](https://github.com/AlexeyShik/Algorithms-and-data-structures/tree/master/Year-2-Term-4-Work-2)
  3. [Экспоненциальные алгоритмы](https://github.com/AlexeyShik/Algorithms-and-data-structures/tree/master/Year-2-Term-4-Work-3)
- 4. [Теория чисел (разленился из-за автомата)](https://github.com/AlexeyShik/Algorithms-and-data-structures/blob/master/Year-2-Term-4-Work-4/15-lab-numbers-statements.pdf)
+ 4. [Теория чисел (разленился из-за автомата)](https://github.com/AlexeyShik/Algorithms-and-data-structures/blob/master/Year-2-Term-4-Work-4)
